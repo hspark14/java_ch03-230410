@@ -1,5 +1,5 @@
 package chps02;
-
+//continue 문 연습 예제
 public class ContinueTest {
 
 	public static void main(String[] args) {
